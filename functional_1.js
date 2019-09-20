@@ -108,11 +108,11 @@ const factorial_ascending = (num) => {
 let a = factorial4(5, factorial_ascending)
 console.log(a)
 
-15 min summary
-35 min problems/solutions
-10 min discussion/apply to our code/Questions
+// 15 min summary
+// 35 min problems/solutions
+// 10 min discussion/apply to our code/Questions
 
 
-Questions & find examples in current code for improvement.
-discussion:
-is ruby a functional language?
+// Questions & find examples in current code for improvement.
+// discussion:
+// is ruby a functional language?
